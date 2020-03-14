@@ -1,0 +1,11 @@
+1 Titanic 1997 romatic
+
+2 MazeRunner 2018 actiune
+
+4 Divergent 2017 actiune
+
+5 Insurgent 2016 SF
+
+6 Avengers 2018 drama
+
+14 Alien 2015 SF
